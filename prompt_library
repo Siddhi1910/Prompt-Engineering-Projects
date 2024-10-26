@@ -1,0 +1,63 @@
+# Prompt Library for Common Use Cases
+
+## Description
+This document serves as a curated collection of prompts designed for various purposes, including summarization, translation, question-answering, email writing, and brainstorming. Each prompt is categorized, with examples of expected outputs and tips for tweaking the prompts to achieve different results.
+
+## Categories
+
+### Personal Productivity
+#### 1. Daily Planning
+**Prompt:** "Create a to-do list for my day, including work tasks and personal activities."  
+**Expected Output:** A structured to-do list outlining tasks for the day.
+
+**Tip:** Add specific time frames for each task to increase productivity.
+
+#### 2. Goal Setting
+**Prompt:** "Help me set SMART goals for my fitness journey."  
+**Expected Output:** A list of specific, measurable, achievable, relevant, and time-bound fitness goals.
+
+**Tip:** Include details about current fitness level for more personalized goals.
+
+---
+
+### Customer Support
+#### 1. Responding to Inquiries
+**Prompt:** "Draft a response to a customer inquiry about a delayed order."  
+**Expected Output:** A polite and informative email addressing the customer's concerns.
+
+**Tip:** Personalize the response by including the customer's name and order details.
+
+#### 2. FAQs Generation
+**Prompt:** "Generate a list of frequently asked questions for our new product."  
+**Expected Output:** A list of relevant questions customers might have along with concise answers.
+
+**Tip:** Encourage team members to contribute additional FAQs based on customer interactions.
+
+---
+
+### Content Creation
+#### 1. Blog Post Ideas
+**Prompt:** "Suggest five blog post ideas related to digital marketing trends."  
+**Expected Output:** A list of creative and relevant blog post titles.
+
+**Tip:** Specify the target audience for more tailored ideas.
+
+#### 2. Social Media Posts
+**Prompt:** "Create engaging captions for Instagram posts about healthy eating."  
+**Expected Output:** A set of catchy captions to accompany healthy eating visuals.
+
+**Tip:** Experiment with different tones (e.g., humorous, inspirational) for varied results.
+
+---
+
+### Examples of Prompt-Output Pairs
+| Prompt                                              | Expected Output                                      |
+|----------------------------------------------------|-----------------------------------------------------|
+| "Summarize the key points from this article."      | A concise summary highlighting main ideas.          |
+| "Translate 'Hello, how are you?' into Spanish."   | "Hola, ¿cómo estás?"                                |
+| "What are the benefits of meditation?"              | A list of meditation benefits and tips for practice.|
+
+## Tips for Tweaking Prompts
+1. **Be Specific:** The more specific your prompt, the more targeted the response will be.
+2. **Adjust Tone:** Specify the tone you want (formal, casual, etc.) to get the desired output.
+3. **Add Context:** Providing additional context can lead to more relevant results.
