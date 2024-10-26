@@ -1,0 +1,24 @@
+# Music Discovery Companion
+
+## Project Overview
+The Music Discovery Companion is designed to help users discover new music based on their current favorites and mood. This chatbot aims to enhance users' musical experience by offering personalized suggestions.
+
+## What You’ll Do
+
+### 1. Create Preference Assessment Prompts
+Gather information about user preferences. Examples include:
+- **Favorite Artists**: "Who are your favorite artists or bands?"
+- **Mood Check**: "What mood are you in today? (e.g., energetic, relaxed)"
+
+### 2. Suggest New Artists and Genres
+Provide tailored recommendations:
+- **Artist Recommendations**: "Based on your favorites, you might enjoy [new artist]."
+- **Genre Exploration**: "Have you listened to [genre]? Here are some popular tracks."
+
+### 3. Engage Users in Music Discussions
+Encourage conversation about music:
+- **Discussion Prompts**: "What’s the last song you added to your playlist?"
+- **Feedback Requests**: "How do you feel about the recommendations I provided?"
+
+## Conclusion
+The Music Discovery Companion will enrich users' music experiences by connecting them with new sounds and artists based on their preferences.
