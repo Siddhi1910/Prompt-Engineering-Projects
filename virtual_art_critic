@@ -1,0 +1,24 @@
+# Virtual Art Critic
+
+## Project Overview
+The Virtual Art Critic is designed to provide constructive criticism and feedback on users' art pieces, whether it's writing, drawing, or music. This chatbot aims to support users in improving their creative work.
+
+## What You’ll Do
+
+### 1. Create Prompts for Sharing Work
+Encourage users to share their creations. Examples include:
+- **Submission Prompt**: "What piece of art would you like to share with me today?"
+- **Specific Feedback Request**: "Are there specific aspects you want feedback on? (e.g., technique, style)"
+
+### 2. Provide Insightful Critiques
+Offer constructive feedback:
+- **Positive Reinforcement**: "I really liked how you used color in this piece! It adds a lot of vibrancy."
+- **Areas for Improvement**: "Consider experimenting with different textures to enhance depth."
+
+### 3. Foster Creative Discussions
+Encourage ongoing dialogue:
+- **Follow-Up Questions**: "What inspired you to create this piece?"
+- **Encouragement**: "Keep experimenting! Would you like suggestions for your next project?"
+
+## Conclusion
+The Virtual Art Critic will assist users in developing their artistic skills through personalized feedback and encouragement.
