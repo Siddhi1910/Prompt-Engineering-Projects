@@ -1,0 +1,25 @@
+# Mental Health Support Bot
+
+## Project Overview
+The Mental Health Support Bot is designed to provide basic mental health support and information about coping strategies. This chatbot aims to offer a safe space for users to express their feelings and receive empathetic responses.
+
+## What You’ll Do
+
+### 1. Develop Sensitive Prompts
+Create empathetic prompts that encourage users to share their feelings. Examples include:
+- **Emotional Check-In**: "How are you feeling today?"
+- **Stress Reflection**: "What’s been on your mind lately?"
+- **Coping Strategies**: "Have you tried any strategies to manage your stress?"
+
+### 2. Optimize for Context
+Ensure prompts lead to appropriate responses based on the user’s emotional state. This involves:
+- **Contextual Awareness**: Tailor prompts based on previous user responses to provide relevant support.
+- **Follow-Up Questions**: Use conditional prompts to address specific concerns, such as "I’m sorry to hear that. Would you like to talk more about it?"
+
+### 3. Iterate on Conversations
+Analyze conversations to find common user concerns and refine the prompts accordingly. This includes:
+- **Data Analysis**: Regularly review chat logs to identify frequently discussed topics and emotional triggers.
+- **Prompt Refinement**: Adjust prompts to better address the needs and concerns of users, enhancing overall support.
+
+## Conclusion
+By creating sensitive prompts and iterating on user interactions, the Mental Health Support Bot will serve as a valuable resource for individuals seeking support and information on mental well-being.
