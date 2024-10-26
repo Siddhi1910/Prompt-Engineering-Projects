@@ -1,0 +1,46 @@
+# Prompt Engineering Guide for Non-Technical Users
+
+## Description
+A beginner-friendly guide to prompt engineering, focusing on practical tips for non-technical users. It covers prompt clarity, iteration techniques, and troubleshooting for effective communication with AI models.
+
+## Suggested Outline
+
+### 1. Introduction
+- **Purpose**: Enable non-technical users to create effective prompts for a variety of tasks.
+- **Audience**: Users with no technical background who want to harness the power of prompt engineering.
+
+### 2. Basics of Prompt Engineering
+
+- **Prompt Structure**:
+  - **Example**: “Write a summary of [topic].” Clear structure leads to accurate responses.
+  - **Expected Output**: A brief, relevant summary.
+
+- **Prompt Phrasing**:
+  - **Example**: “Explain [concept] in simple terms for a beginner.” Clear phrasing helps the AI provide information at an appropriate level.
+
+- **Specificity**:
+  - **Example**: “List three benefits of exercise for mental health.” Specific prompts yield more focused responses.
+
+### 3. Iterating on Prompts
+
+- **Initial Prompt**: “Summarize the benefits of remote work.”
+- **Refinement 1**: “Summarize the benefits of remote work for productivity and work-life balance.”
+- **Refinement 2**: “Summarize the benefits of remote work for productivity, work-life balance, and mental health.”
+- **Explanation**: Each iteration refines the output to focus on more specific benefits.
+
+### 4. Troubleshooting Common Issues
+
+- **Issue**: Response is too general.
+  - **Solution**: Add context to the prompt, e.g., “List three detailed reasons why remote work can increase productivity.”
+  
+- **Issue**: Irrelevant response.
+  - **Solution**: Specify key points, e.g., “Provide a summary of the top three challenges in remote work.”
+
+### 5. Examples of Prompt Evolution
+
+- **Example Task**: Generate a customer service FAQ.
+  - **Initial Prompt**: “Create a FAQ for customer service.”
+  - **Refined Prompt**: “Create a FAQ for customer service that addresses common issues like refunds, cancellations, and product support.”
+
+### Conclusion
+This guide provides non-technical users with practical steps to create, refine, and troubleshoot prompts effectively. By focusing on clarity, iteration, and specificity, users can communicate better with AI to achieve the desired outcomes.
