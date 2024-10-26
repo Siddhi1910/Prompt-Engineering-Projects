@@ -1,0 +1,24 @@
+# Historical Event Explorer
+
+## Project Overview
+The Historical Event Explorer is designed to educate users about significant historical events and figures in an engaging way. This chatbot aims to make history accessible and interesting.
+
+## What You’ll Do
+
+### 1. Generate Exploration Prompts
+Allow users to explore events by time period, region, or significance. Examples include:
+- **Time Period Selection**: "Which time period are you interested in exploring? (e.g., Ancient, Medieval, Modern)"
+- **Event Significance**: "What significant events would you like to learn more about?"
+
+### 2. Enhance Educational Experience
+Provide context and details:
+- **Event Overviews**: "Here’s a summary of [event]. What specific aspects interest you?"
+- **Interactive Questions**: "Who do you think was the most influential figure during [event]?"
+
+### 3. Encourage Further Learning
+Promote deeper engagement:
+- **Follow-Up Prompts**: "Would you like to know about related events or figures?"
+- **Resource Suggestions**: "Here are some books and articles you might find interesting."
+
+## Conclusion
+The Historical Event Explorer will engage users in learning about history through interactive prompts and personalized exploration.
