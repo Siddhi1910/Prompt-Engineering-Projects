@@ -1,0 +1,25 @@
+# Interactive Career Coach
+
+## Project Overview
+The Interactive Career Coach is designed to help users explore different career paths and provide tailored advice based on their skills and interests. This chatbot will serve as a guide for individuals navigating their career options.
+
+## What You’ll Do
+
+### 1. Develop Prompts
+Create prompts that assess user skills and interests. Examples include:
+- **Skill Assessment**: "What skills do you feel most confident in?"
+- **Interest Exploration**: "What subjects or activities are you passionate about?"
+- **Career Suggestions**: "Based on your skills and interests, here are some career paths you might consider: [list]. Which ones resonate with you?"
+
+### 2. Suggest Potential Career Paths
+Offer tailored advice based on user input:
+- **Path Exploration**: "Would you like to know more about what a [suggested career] entails?"
+- **Job Market Insights**: "Here are some current trends in the job market for your interests."
+
+### 3. Offer Tips for Job Searching
+Provide users with practical advice:
+- **Resume Guidance**: "Do you need help creating or refining your resume?"
+- **Interview Preparation**: "What types of interviews are you preparing for?"
+
+## Conclusion
+The Interactive Career Coach will empower users to explore and pursue fulfilling career options through tailored guidance and insights.
