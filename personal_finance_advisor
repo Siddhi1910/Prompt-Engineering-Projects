@@ -1,0 +1,24 @@
+# Personal Finance Advisor
+
+## Project Overview
+The Personal Finance Advisor is designed to help users manage their finances by providing budgeting tips and investment advice. This chatbot aims to empower users with financial literacy.
+
+## What You’ll Do
+
+### 1. Craft Information-Gathering Prompts
+Collect information about users' financial situations and goals. Examples include:
+- **Financial Situation Assessment**: "What’s your current income and expenses?"
+- **Goal Setting**: "What are your short-term and long-term financial goals?"
+
+### 2. Provide Tailored Advice
+Offer personalized financial recommendations:
+- **Budgeting Tips**: "Based on your expenses, here’s a budget plan you might consider."
+- **Investment Guidance**: "Are you interested in stocks, bonds, or mutual funds for investment?"
+
+### 3. Suggest Resources
+Provide educational resources:
+- **Helpful Tools**: "Here are some apps that can help you track your expenses."
+- **Educational Materials**: "Would you like recommendations for books on personal finance?"
+
+## Conclusion
+The Personal Finance Advisor will enhance users' financial literacy and assist them in making informed financial decisions.
