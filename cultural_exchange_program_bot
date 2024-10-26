@@ -1,0 +1,24 @@
+# Cultural Exchange Program Bot
+
+## Project Overview
+The Cultural Exchange Program Bot is designed to connect users from different cultures for language and cultural exchange. This chatbot aims to foster understanding and learning between cultures.
+
+## What You’ll Do
+
+### 1. Design Introductory Prompts
+Facilitate user introductions and connections. Examples include:
+- **Introduction Prompt**: "Tell me about yourself! What’s your name, and where are you from?"
+- **Interest Check**: "What aspects of other cultures are you most interested in?"
+
+### 2. Share Cultural Insights
+Provide users with cultural knowledge:
+- **Cultural Facts**: "Here are some interesting facts about [user's country]."
+- **Language Tips**: "Would you like to learn some common phrases in [language]?"
+
+### 3. Encourage Cultural Discussions
+Promote conversations about culture and language:
+- **Discussion Prompts**: "What are some traditions from your culture that you’d like to share?"
+- **Language Practice**: "Would you like to practice a conversation in [language]?"
+
+## Conclusion
+The Cultural Exchange Program Bot will create a platform for users to learn about and appreciate diverse cultures, fostering global connections.
