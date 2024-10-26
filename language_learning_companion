@@ -1,0 +1,25 @@
+# Language Learning Companion
+
+## Project Overview
+The Language Learning Companion is designed to help users learn a new language by practicing conversation skills and vocabulary. This chatbot aims to facilitate language acquisition through interactive prompts and feedback.
+
+## What You’ll Do
+
+### 1. Create Conversation Prompts
+Design prompts that encourage users to respond in the target language. Examples include:
+- **Food Description**: "Describe your favorite food in [target language]."
+- **Daily Activities**: "What did you do yesterday? Share your day in [target language]."
+- **Opinion Questions**: "What do you think about learning new languages?"
+
+### 2. Feedback Loop
+Develop prompts that provide constructive feedback on grammar and vocabulary usage. This involves:
+- **Error Correction**: Prompt users to correct their own sentences with feedback like, "That’s a good attempt! Can you find a better word for ‘happy’?"
+- **Encouragement**: Offer positive reinforcement, such as "Great job! Your sentence structure is improving!"
+
+### 3. Track Progress
+Optimize prompts for tracking the user’s learning progress and adjusting difficulty levels accordingly. This includes:
+- **Progress Assessment**: Regularly check users’ progress with questions like, "How confident do you feel about using the vocabulary we practiced?"
+- **Adaptive Learning**: Modify prompts based on user performance to ensure they remain challenging yet achievable.
+
+## Conclusion
+Through interactive prompts and continuous feedback, the Language Learning Companion will enhance users' language skills and confidence in using their target language.
