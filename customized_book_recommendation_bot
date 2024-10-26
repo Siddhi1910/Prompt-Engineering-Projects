@@ -1,0 +1,24 @@
+# Customized Book Recommendation Bot
+
+## Project Overview
+The Customized Book Recommendation Bot is designed to suggest books based on users’ reading preferences, mood, and genres. This chatbot aims to enhance the reading experience by offering tailored recommendations.
+
+## What You’ll Do
+
+### 1. Design Assessment Prompts
+Gather user preferences and mood. Examples include:
+- **Reading Preferences**: "What genres do you enjoy reading? (e.g., fiction, non-fiction, mystery)"
+- **Mood Check**: "What mood are you in today? (e.g., adventurous, reflective)"
+
+### 2. Refine Suggestions Based on Feedback
+Iterate on user input:
+- **Feedback Loop**: "Did you enjoy the last book I recommended? Why or why not?"
+- **Adapt Recommendations**: "Based on your feedback, here’s another book you might like: [title]."
+
+### 3. Engage Users in Discussions
+Encourage conversations about reading:
+- **Discussion Prompts**: "What’s the last book you read? What did you think of it?"
+- **Recommendation Rationale**: "I recommended this book because [reason]. Does that resonate with you?"
+
+## Conclusion
+The Customized Book Recommendation Bot will enrich users' reading experiences through personalized suggestions and engaging discussions.
