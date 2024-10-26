@@ -1,0 +1,26 @@
+# Personalized Study Assistant
+
+## Project Overview
+The Personalized Study Assistant is designed to help students create customized study plans and provide answers to questions across various subjects. The goal is to offer a supportive tool that enhances learning by tailoring recommendations based on individual needs.
+
+## What You’ll Do
+
+### 1. Design Prompts
+Create effective prompts that assess a student's current knowledge level and learning preferences. Examples include:
+- **Assessing Subject Needs**: "What subjects do you need help with?"
+- **Understanding Learning Style**: "Do you prefer visual aids, reading materials, or interactive exercises?"
+
+### 2. Refine User Interaction
+Optimize prompts to encourage users to provide comprehensive information. Examples include:
+- **Time Commitment**: "How many hours can you dedicate to studying each week?"
+- **Goal Setting**: "What specific goals do you want to achieve in your studies this semester?"
+- **Current Knowledge Level**: "How confident do you feel in each subject on a scale of 1 to 10?"
+
+### 3. Test and Iterate
+Gather user feedback to assess the effectiveness of the prompts and refine them for better engagement. This involves:
+- **User Surveys**: After interacting with the chatbot, ask users for feedback on their experience.
+- **Analytics**: Monitor which prompts lead to better user engagement and satisfaction.
+- **Adjustments**: Based on feedback, modify prompts to be more engaging or informative.
+
+## Conclusion
+By continuously refining the prompts and interaction methods, the Personalized Study Assistant will provide an increasingly valuable resource for students seeking tailored academic support.
