@@ -1,0 +1,24 @@
+# AI-Powered Debate Coach
+
+## Project Overview
+The AI-Powered Debate Coach is designed to help users prepare for debates by generating arguments for and against various topics. This chatbot aims to enhance users' debating skills through structured prompts and feedback.
+
+## What You’ll Do
+
+### 1. Craft Prompts
+Gather the topic of debate and generate balanced arguments. Examples include:
+- **Topic Input**: "What topic would you like to debate today?"
+- **Argument Generation**: "Here are arguments for and against [topic]. Which side do you prefer?"
+
+### 2. Challenge User Viewpoints
+Create prompts that stimulate critical thinking:
+- **Counterarguments**: "What are some counterarguments to your viewpoint?"
+- **Clarification Questions**: "Can you explain why you believe that?"
+
+### 3. Encourage Engagement
+Foster a constructive debate environment:
+- **Follow-Up Questions**: "What evidence supports your argument?"
+- **Reflection Prompts**: "How did this debate change your perspective?"
+
+## Conclusion
+The AI-Powered Debate Coach will assist users in developing their debating abilities, fostering critical thinking and effective argumentation skills.
