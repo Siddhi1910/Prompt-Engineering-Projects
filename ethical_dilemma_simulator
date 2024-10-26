@@ -1,0 +1,24 @@
+# Ethical Dilemma Simulator
+
+## Project Overview
+The Ethical Dilemma Simulator is designed to present users with ethical dilemmas and encourage critical thinking and discussion. This chatbot aims to facilitate deeper understanding of ethical reasoning.
+
+## What You’ll Do
+
+### 1. Design Dilemma Prompts
+Frame ethical dilemmas effectively. Examples include:
+- **Dilemma Introduction**: "Here’s a scenario: You find a wallet on the street with money inside. What do you do?"
+- **Clarifying Questions**: "What factors influence your decision in this scenario?"
+
+### 2. Encourage Discussion
+Promote critical thinking:
+- **Reasoning Prompts**: "Why do you think your choice is the right one?"
+- **Counterpoint Questions**: "What if someone else had a different perspective?"
+
+### 3. Provide Follow-Up Questions
+Deepen the conversation:
+- **Exploration Prompts**: "How would your decision change if this wallet belonged to a stranger versus a friend?"
+- **Reflection Questions**: "What does this dilemma reveal about your values?"
+
+## Conclusion
+The Ethical Dilemma Simulator will challenge users to think critically about ethical issues and foster meaningful discussions.
